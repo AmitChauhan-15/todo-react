@@ -24,7 +24,7 @@ A simple and functional Todo application built with **React** that allows users 
 - **Frontend**: React (with Vite)
 - **API**: External REST API (URL configured via `.env`)
 - **State Management**: React hooks (`useState`, `useEffect`)
-- **Routing**: React Router (if used)
+- **Routing**: React Router
 
 ---
 

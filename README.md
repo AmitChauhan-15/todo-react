@@ -33,8 +33,8 @@ A simple and functional Todo application built with **React** that allows users 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/react-todo-app.git
-   cd react-todo-app
+   git clone https://github.com/AmitChauhan-15/todo-react.git
+   cd todo-react
 
    ```
 
